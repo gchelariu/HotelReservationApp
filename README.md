@@ -4,7 +4,7 @@ Project: Application for a Hotel. Purpose: Reserve rooms in the hotel and keep t
 This applications purpose is to make the functionality of a Hotel Rezervation tool.
 In this project you can see: 
 -JAVA encapsulation respected
--the use of Lists
+-the use of Lists and Sets
 -the use of a sorting algorithm to sort the reservations alphabetically by name
 -a data base created automatically(hotel.db) when the app is closed. This will ensure that the reservation that you make will not be 
 lost.
